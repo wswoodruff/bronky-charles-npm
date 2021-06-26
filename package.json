@@ -1,10 +1,7 @@
 {
-  "name": "@shizzy/bronky-charles-npm",
+  "name": "@shizzy/bronky",
   "version": "0.0.1",
   "description": "bronky",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@shizzy"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wswoodruff/bronky-charles-npm.git"
