@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "bronky",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@wswoodruff"
+    "registry": "https://npm.pkg.github.com/@shizzy"
   },
   "repository": {
     "type": "git",
@@ -14,5 +14,6 @@
     "postinstall": "open https://bronkycharles.com"
   },
   "author": "wswoodruff",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "homepage": "https://bronkycharles.com"
 }
