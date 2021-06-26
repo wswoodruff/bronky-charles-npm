@@ -1,0 +1,18 @@
+{
+  "name": "@shizzy/bronky-charles-npm",
+  "version": "0.0.1",
+  "description": "bronky",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@wswoodruff"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wswoodruff/bronky-charles-npm.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "open https://bronkycharles.com"
+  },
+  "author": "wswoodruff",
+  "license": "UNLICENSED"
+}
